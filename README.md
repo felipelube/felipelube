@@ -14,4 +14,5 @@
 -->
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=felipelube&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelube&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelube)](https://github.com/felipelube/felipelube)
+
