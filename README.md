@@ -48,8 +48,8 @@ Welcome to my GitHub! I’m a **Full-Stack Software Engineer** with over 5 years
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [felipelubebraganca@gmail.com](mailto:me@lube.codes)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/felipelube/)
+- **Email**: [me@lube.codes](mailto:me@lube.codes)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/felipelube/)
 
 ---
 
