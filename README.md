@@ -54,9 +54,8 @@ Welcome to my GitHub! I’m a **Full-Stack Software Engineer** with over 5 years
 ---
 
 ## 🚀 Fun Facts About Me
-- I’m currently learning **Zig**, exploring its unique approach to low-level programming.
-- I value **remote freedom** and flexibility, enjoying the balance between productivity and life.
-- When I’m not engineering, I’m diving into history, photography, or a good crime novel.
+- I value **remote freedom and flexibility**, as I enjoy the ability to change my scenery from time to time.
+- When I’m not engineering, I’m diving into history, photography, or a good crime novel - I love audiobooks.
 
 ---
 
